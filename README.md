@@ -13,9 +13,12 @@ cd grayscale-histogram-equalizer
 mkdir build
 cd build
 cmake ..
-make
 ```
 ![build](https://github.com/gksbrandon/grayscale-histogram-equalizer/blob/master/readme-gifs/build.gif)
+
+```
+make
+```
 ![build2](https://github.com/gksbrandon/grayscale-histogram-equalizer/blob/master/readme-gifs/build2.gif)
 
 ## To Run Tests
