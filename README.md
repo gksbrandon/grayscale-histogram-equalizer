@@ -1,0 +1,1 @@
+Grayscale Histogram Equalizer
